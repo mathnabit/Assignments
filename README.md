@@ -1,1 +1,1 @@
-# html-assignments
+# My Way to learn HTML
